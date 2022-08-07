@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SANGYAN/AndroidStudioProjects/easyfood/app/src/main/res/drawable/category.xml" value="0.1" />
+        <entry key="..\:/Users/SANGYAN/AndroidStudioProjects/easyfood/app/src/main/res/drawable/favorite.xml" value="0.1" />
+        <entry key="..\:/Users/SANGYAN/AndroidStudioProjects/easyfood/app/src/main/res/drawable/home.xml" value="0.1" />
+        <entry key="..\:/Users/SANGYAN/AndroidStudioProjects/easyfood/app/src/main/res/font/font.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/SANGYAN/AndroidStudioProjects/easyfood/app/src/main/res/layout/activity_category_class.xml" value="0.1796875" />
+        <entry key="..\:/Users/SANGYAN/AndroidStudioProjects/easyfood/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/SANGYAN/AndroidStudioProjects/easyfood/app/src/main/res/layout/activity_meal.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/SANGYAN/AndroidStudioProjects/easyfood/app/src/main/res/layout/category_layout.xml" value="0.1796875" />
+        <entry key="..\:/Users/SANGYAN/AndroidStudioProjects/easyfood/app/src/main/res/layout/fragment_category.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/SANGYAN/AndroidStudioProjects/easyfood/app/src/main/res/layout/fragment_favouriate.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/SANGYAN/AndroidStudioProjects/easyfood/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/SANGYAN/AndroidStudioProjects/easyfood/app/src/main/res/layout/meals_item.xml" value="0.1796875" />
+        <entry key="..\:/Users/SANGYAN/AndroidStudioProjects/easyfood/app/src/main/res/layout/popular_items.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/SANGYAN/AndroidStudioProjects/easyfood/app/src/main/res/menu/bottom_menu.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
